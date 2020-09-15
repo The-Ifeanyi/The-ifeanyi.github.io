@@ -8,5 +8,5 @@ This is the link to my github [profile](https://github.com/The-Ifeanyi)
 
 Things i like:
 1. Food
-- Money
-- Toys
+2. Money
+3. Toys
