@@ -7,6 +7,7 @@ This is the link to my github [profile](https://github.com/The-Ifeanyi)
 ![My face](DSC_1353.jpg)
 
 Things i like:
-1. Food
-2. Money
-3. Toys
+- Food
+  - Rice
+  - Plantain
+- Money
