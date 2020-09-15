@@ -1,2 +1,3 @@
 # The-ifeanyi.github.io
-My website
+Hello, You're looking at my github website. \
+The stash of an Engineering student going down the developer's path.
