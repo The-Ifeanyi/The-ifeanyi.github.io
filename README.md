@@ -5,3 +5,8 @@ This is the link to my github [profile](https://github.com/The-Ifeanyi)
 
 ---
 ![My face](DSC_1353.jpg)
+
+Things i like:
+1. Food
+- Money
+- Toys
